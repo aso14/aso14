@@ -1,39 +1,26 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Silas AIKO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ❔[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
-###
+### In short I'm Delphi Developer and Golang
 
-<p align="left">My name is Silas and I'm a ..., from ....</p>
+- 🔭 I’m currently working on - Remote 🤠 (Available)
+- 👯 I’m looking to collaborate with - Other developpers in community 😉 and collaborate by bulding amazing tools and project.
 
-###
+<!-- ❔❔❔❔ means username in below README.md -->
+<!-- Also feel free to update second URL to any URL -->
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=aso14&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-<h2 align="left">About me</h2>
+## Connect with me:
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
-###
+<!-- Optional if you have blogs -->
+<!-- ## Latest blog posts:-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+<!-- This section you create this variables that are used above -->
+<!--[website]: https://google.com-->
+[linkedin]: https://www.linkedin.com/in/silasaiko/
