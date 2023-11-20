@@ -1,4 +1,4 @@
-# Hi, I'm Silas AIKO <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Silas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- ❔[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 
 ### In short I'm Delphi Developer and Golang
