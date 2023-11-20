@@ -23,4 +23,3 @@
 
 <!-- This section you create this variables that are used above -->
 <!--[website]: https://google.com-->
-[linkedin]: https://www.linkedin.com/in/silasaiko/
