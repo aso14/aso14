@@ -1,46 +1,24 @@
-<!--![Snake animation](https://github.com/HemulGM/HemulGM/blob/output/github-contribution-grid-snake.svg)<br>-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aso14&theme=github_dark&show_icons=true&hide_title=true&hide_border=true" height=150><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aso14&langs_count=6&layout=compact&theme=github_dark&hide_title=true&hide_border=true" height=150>
 
-<br><br><br><br>
-</div>
- <div style="display: inline_block"><br>
-<hr>
+## 🌐 Socials:
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@silas.aiko) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@uidelphi) 
 
-<!--code-->
-<img align="center" alt="pascal-delphi" height="30" width="30" src="https://dtffvb2501i0o.cloudfront.net/images/logos/delphi-logo-128.png">
-<img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="trello" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=30&color=currentColor">
-<img align="center" alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aso14&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aso14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aso14&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!--website-->
-<img align="center" alt="Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aso14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!--sgdb-->
-<img align="center" alt="muysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aso14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</br>
-You can chat with me or other Delphi developers in telegram channels: </br>
-https://t.me/delphidevelopers </br>
-https://t.me/Delphi_Lazarus </br>
-https://t.me/fmx_ru </br>
-</br>
+---
+[![](https://visitcount.itsvg.in/api?id=aso14&icon=5&color=12)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=hemulgm&style=flat-square)
-<!--
-**HemulGM/HemulGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on VK API wrapper
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
