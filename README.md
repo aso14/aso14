@@ -6,9 +6,8 @@
 - 🔭 I’m currently working on - Remote 🤠 (Available)
 - 👯 I’m looking to collaborate with - Other developpers in community 😉 and collaborate by bulding amazing tools and project.
 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=aso14&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aso14&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## Connect with me:
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
